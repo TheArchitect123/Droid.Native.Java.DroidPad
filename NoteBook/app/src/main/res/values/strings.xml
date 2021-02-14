@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">DroidPad</string>
+    <!--    <string name="app_name">Welcome to DroidPad!</string>-->
+    <!--Strings used for navigation Bars-->
+    <string name="dashboard_nav_bar_title">DroidPad</string>
+    <string name="title_activity_register_user">Register an Account</string>
+    <string name="title_activity_sign_in">Sign In</string>
+
+
+    <string name="notes_creator_nav_bar_title">Create a suitable note</string>
+
+    <!--App Bar Bottom Items-->
+    <string name="dashboard_app_bar_title">Dashboard</string>
+    <string name="settings_app_bar_title">Settings</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!--Sign In Page Strings-->
+    <string name="sign_in_page_bottom_bar_auth_mode">Sign In</string>
+    <string name="register_in_page_bottom_bar_auth_mode">Register</string>
+
+    <!--Sign In (Controls)-->
+    <string name="sign_in_with_username_hint">Enter Username (or Email Address)</string>
+    <string name="sign_in_with_password_hint">Password</string>
+    <string name="sign_in_remember_me">Remember Me</string>
+    <string name="register_for_new_account">Sign Up Today!</string>
+    <string name="sign_in_with_password_logn_btn">Sign In</string>
+    <string name="prompt_register_new_account_instructions">Don\'t have an Account?</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="sign_in_user_with_registration_option">New user? Register Now</string>
+    <string name="sign_in_with_social_auth_description">Or Sign in with your Social Network</string>
+
+    <!--Dialogs & Texts-->
+    <string name="reset_password_title">Forgotten your Password? You can Reset it here</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
